@@ -1,6 +1,6 @@
 # PDA2DEARSM
-Progressively data-augmented explicit algebraic Reynolds stress model (PDAEARSM) enhanced for the prediction of secondary flows based on RANS $k-\omega$ SST turbulence model.
-Developed by Fluid Physics & Turbulence research group at Aarhus University.
+Progressively data-augmented explicit algebraic Reynolds stress model (PDA-EARSM) enhanced for the prediction of secondary flows based on RANS $k-\omega$ SST turbulence model.
+Developed by Fluid Mechanics & Turbulence research group at Aarhus University.
 
 PDA2DEARSM - Implementation of the PDA2DEARSM RANS model
          as proposed by Rincón and Amarloo (2023) for OpenFOAM.
@@ -83,15 +83,16 @@ Please, cite this library using the following Publication:
 Rincón and Amarloo (2023)
 
          @article{rincon2023progressive,
-                  title = {Progressive augmentation of {R}eynolds stress tensor models for secondary flow prediction by computational fluid dynamics driven surrogate optimisation},
-                  author = {Mario Javier Rincón and Ali Amarloo and Martino Reclari and Xiang I.A. Yang and Mahdi Abkar},
-                  journal={International Journal of Heat and Fluid Flow},
-                  volume={104},
-                  pages={109242},
-                  doi = {https://doi.org/10.1016/j.ijheatfluidflow.2023.109242},
-                  year={2023},
-                  publisher={Elsevier}
-                }
+         title = {Progressive augmentation of Reynolds stress tensor models for secondary flow prediction by computational fluid dynamics driven surrogate optimisation},
+         journal = {International Journal of Heat and Fluid Flow},
+         volume = {104},
+         pages = {109242},
+         year = {2023},
+         issn = {0142-727X},
+         doi = {https://doi.org/10.1016/j.ijheatfluidflow.2023.109242},
+         author = {Mario Javier Rincón and Ali Amarloo and Martino Reclari and Xiang I.A. Yang and Mahdi Abkar},
+         keywords = {Turbulence modelling, RANS, Progressive augmentation, Surrogate modelling, Kriging, Secondary flows}
+         }
                 
 For release-specific DOIs, click on the badge and find the DOI corresponding to the desired version in the version list.
 
