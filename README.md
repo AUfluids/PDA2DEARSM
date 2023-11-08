@@ -71,7 +71,7 @@ NOTE: You might have to define the bijDelta term in system/fvSchemes file, here 
 
 For more details, refer to the publication at: 
 [Progressive augmentation of Reynolds stress tensor models for secondary flow prediction by computational fluid dynamics driven surrogate optimisation](https://doi.org/10.1016/j.ijheatfluidflow.2023.109242)
-Or [arXiv](https://arxiv.org/abs/2308.12720)
+or [arXiv](https://arxiv.org/abs/2308.12720)
 
 
 Qualitative results for a duct flow of aspect ratio 1 at bulk Reynolds number 3500 for Model **II**:
