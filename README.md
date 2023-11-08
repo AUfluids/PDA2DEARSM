@@ -79,7 +79,9 @@ Quantitative results:
 
 ## How to cite
 Please, cite this library using the following Publication:
+
 Rincón and Amarloo (2023)
+
          @article{rincon2023progressive,
                   title = {Progressive augmentation of {R}eynolds stress tensor models for secondary flow prediction by computational fluid dynamics driven surrogate optimisation},
                   author = {Mario Javier Rincón and Ali Amarloo and Martino Reclari and Xiang I.A. Yang and Mahdi Abkar},
