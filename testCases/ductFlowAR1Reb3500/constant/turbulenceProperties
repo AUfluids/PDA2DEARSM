@@ -22,7 +22,7 @@ RAS
     RASModel        kOmegaSSTPDA2DEARSM; 
 
     //Optional Coefficients
-    PDA2DEARSM          1;          //0:off | 1:ModelI | 2:ModelII
+    PDA2DEARSM          2;          //0:off | 1:ModelI | 2:ModelII
 
     turbulence      on;
     printCoeffs     on;
