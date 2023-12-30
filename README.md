@@ -80,7 +80,7 @@ Quantitative results:
 ![alt text](https://github.com/AUfluids/PDA2DEARSM/blob/main/testCases/ductFlowAR1Reb3500/SD_profiles.png)
 
 ## How to cite
-Please, cite this library using the following Publication:
+Please, cite this library using the following DOI: [https://doi.org/10.1016/j.ijheatfluidflow.2023.109242](https://doi.org/10.1016/j.ijheatfluidflow.2023.109242)
 
 Rincón and Amarloo (2023)
 
