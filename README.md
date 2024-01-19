@@ -28,7 +28,7 @@ Three coefficients can be modified by the user to change the model's performance
 Standard optimised values are given by default in the model.
 
 ## Target platform
-The code is known to work with OpenFOAM v2112 and v2212.
+The code is known to work with OpenFOAM v2312 and previous ESI versions.
 
 ## Authors
 Mario Javier Rincón <mjrp@mpe.au.dk>
